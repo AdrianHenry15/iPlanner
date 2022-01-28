@@ -27,7 +27,6 @@ body {
   
   .time-block{
     text-align: center;
-    border-radius: 15px;
   }
   
   .row {
@@ -81,4 +80,8 @@ body {
 
   #clearFieldsBtn {
     margin-top: 10px;
+  }
+
+  .white-text {
+    color: white;
   }
