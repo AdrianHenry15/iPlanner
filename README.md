@@ -15,7 +15,7 @@ The purpose of this project is to provide an employee with a busy scheudle a way
 
 [Code Repository](https://github.com/AdrianHenry15/iPlanner)
 
-[iPlanner]()
+[iPlanner](https://adrianhenry15.github.io/iPlanner/)
 
 # Installation
 Upload index.html and style and javascript files lie within the same folder as the index.html to prevent any deploying issues.
