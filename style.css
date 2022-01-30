@@ -41,6 +41,7 @@ body {
     border-top: 1px dashed #000000;
   }
   
+  /* 'past' 'present' and 'future' classes to use in Javascript to be appended into HTML */
   .past {
     background-color: #d3d3d3;
     color: white;
@@ -56,6 +57,7 @@ body {
     color: white;
   }
   
+  /* End of Javascript classes */
   .saveBtn {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
@@ -82,6 +84,7 @@ body {
     margin-top: 10px;
   }
 
+  /* used as an added class in javascript into html for the purpose of making the text white in the text area when the area is red */
   .white-text {
     color: white;
   }
